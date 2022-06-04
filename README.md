@@ -1,3 +1,6 @@
+This project is a simple blockchain frontend project
+The backend was built on hardhat, an Ethereum development environment and was deployed on goerli network
+Remember to update your json data from the backend anytime you redeploy. In case you need any help, contact me. Thanks
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
